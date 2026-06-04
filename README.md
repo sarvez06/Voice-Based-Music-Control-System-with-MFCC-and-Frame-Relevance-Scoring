@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project presents a **Voice-Based Music Control System** that uses **non-linguistic vocal sounds** instead of traditional speech commands for hands-free music player interaction.This was made with an intention that it will help the speech impaired person to interact so that the communication is effective.
 
