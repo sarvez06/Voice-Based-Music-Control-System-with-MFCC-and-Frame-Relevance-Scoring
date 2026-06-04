@@ -133,7 +133,7 @@ Voice-Based-Music-Control-System/
 ├── paper/
 │   └── Sp_Conference_Paper.pdf
 │
-├── screenshots/
+├── Screenshots/
 │   ├── confusion_matrix.png
 │   ├── mfcc_scatter_plot.png
 │   ├── frs_comparison.png
@@ -288,25 +288,25 @@ By giving more and more samples,the performance will eventually increase.
 ### **Confusion Matrix**
 
 ```markdown
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](Screenshots/confusion_matrix.png)
 ```
 
 ### **PCA Feature Distribution**
 
 ```markdown
-![MFCC Scatter Plot](screenshots/mfcc_scatter_plot.png)
+![MFCC Scatter Plot](Screenshots/mfcc_scatter_plot.png)
 ```
 
 ### **FRS Before vs After**
 
 ```markdown
-![FRS Comparison](screenshots/frs_comparison.png)
+![FRS Comparison](Screenshots/frs_comparison.png)
 ```
 
 ### **Mean MFCC Heatmap**
 
 ```markdown
-![MFCC Heatmap](screenshots/mfcc_heatmap.png)
+![MFCC Heatmap](Screenshots/mfcc_heatmap.png)
 ```
 
 ---
