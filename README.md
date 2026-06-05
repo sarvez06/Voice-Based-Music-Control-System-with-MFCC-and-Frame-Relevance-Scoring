@@ -130,10 +130,10 @@ Voice-Based-Music-Control-System/
 ├── mfcc_visualisation.py
 │
 ├── screenshots/
-│   ├── confusion_matrix.png
-│   ├── mfcc_scatter_plot.png
-│   ├── frs_comparison.png
-│   └── mfcc_heatmap.png
+    ├── confusion_matrix.png
+    ├── mfcc_scatter_plot.png
+    ├── frs_comparison.png
+    └── mfcc_heatmap.png
 ```
 
 ---
