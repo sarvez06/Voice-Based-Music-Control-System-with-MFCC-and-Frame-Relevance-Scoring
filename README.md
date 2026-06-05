@@ -287,27 +287,19 @@ By giving more and more samples,the performance will eventually increase.
 
 ### **Confusion Matrix**
 
-```markdown
-![Confusion Matrix](Screenshots/confusion_matrix.png)
-```
+<img width="1600" height="1405" alt="image" src="https://github.com/user-attachments/assets/50735828-4219-4296-9fac-4c8674d57ddc" />
 
 ### **PCA Feature Distribution**
 
-```markdown
-![MFCC Scatter Plot](Screenshots/mfcc_scatter_plot.png)
-```
+<img width="1600" height="1250" alt="image" src="https://github.com/user-attachments/assets/ccb98584-7f3f-4cef-b705-5a4b72ace4ff" />
 
 ### **FRS Before vs After**
 
-```markdown
-![FRS Comparison](Screenshots/frs_comparison.png)
-```
+<img width="1600" height="651" alt="image" src="https://github.com/user-attachments/assets/229e1df9-c2b1-47c4-8bfe-c8eae2af12cf" />
 
 ### **Mean MFCC Heatmap**
 
-```markdown
-![MFCC Heatmap](Screenshots/mfcc_heatmap.png)
-```
+<img width="1600" height="952" alt="image" src="https://github.com/user-attachments/assets/6d9355ff-7ecd-41e3-a81f-c8e904115331" />
 
 ---
 
