@@ -120,7 +120,6 @@ to achieve robust real-time audio recognition.
 Voice-Based-Music-Control-System/
 │
 ├── README.md
-├── requirements.txt
 │
 ├── data_collection.py
 ├── data_cleanup.py
@@ -130,20 +129,11 @@ Voice-Based-Music-Control-System/
 ├── music_player.py
 ├── mfcc_visualisation.py
 │
-├── paper/
-│   └── Sp_Conference_Paper.pdf
-│
-├── Screenshots/
+├── screenshots/
 │   ├── confusion_matrix.png
 │   ├── mfcc_scatter_plot.png
 │   ├── frs_comparison.png
 │   └── mfcc_heatmap.png
-│
-├── sounds/
-│   ├── train/
-│   └── test/
-│
-└── vocal_command_model.pkl
 ```
 
 ---
